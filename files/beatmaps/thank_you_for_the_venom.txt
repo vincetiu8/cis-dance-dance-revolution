@@ -1,0 +1,555 @@
+416 1875
+187 122 126 109
+L 0
+R 0
+L 1
+R 0
+L 15
+R 0
+L 1
+R 0
+L 7
+R 0
+L 1
+R 0
+L 3
+R 0
+L 1
+R 0
+L 3
+R 0
+L 1
+R 0
+L 15
+R 0
+L 1
+R 0
+L 7
+R 0
+L 1
+R 0
+L 3
+R 0
+L 1
+R 0
+# Guitar Solo
+L 3
+R 0
+L 1
+D 1
+L 1
+L 1
+L 1
+L 1
+D 1
+R 1
+L 1
+D 1
+L 1
+U 1
+L 1
+D 1
+L 1
+L 1
+R 0
+L 1
+U 1
+L 1
+D 1
+L 1
+R 1
+L 1
+L 1
+R 0
+L 1
+D 1
+L 1
+U 1
+L 1
+R 1
+# Part 2
+L 2
+R 0
+L 1
+D 1
+L 1
+L 1
+L 1
+L 1
+D 1
+R 1
+L 1
+D 1
+L 1
+U 1
+L 1
+D 1
+L 1
+D 1
+R 0
+D 1
+R 0
+D 1
+R 0
+D 1
+R 0
+U 1
+R 0
+U 1
+R 0
+U 1
+R 0
+U 1
+R 0
+L 1
+D 0
+L 1
+D 0
+L 1
+D 0
+L 1
+D 0
+L 1
+U 0
+L 1
+U 0
+L 1
+U 0
+L 1
+U 0
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+L 2 6
+D 0 6
+U 6 2
+R 0 2
+L 2 6
+D 0 6
+U 6 2
+R 0 2
+L 2 6
+R 0 6
+U 6 2
+D 0 2
+D 2 8
+R 0 8
+L 8
+L 1
+L 2
+L 1
+L 1
+U 2
+U 1
+U 1
+D 2
+D 1
+D 1
+L 2
+L 1
+L 1
+L 2
+L 1
+L 1
+R 2
+R 1
+R 1
+D 2
+D 1
+D 1
+L 3 6
+D 0 6
+U 6 2
+R 0 2
+L 2 6
+D 0 6
+U 6 2
+R 0 2
+L 2 6
+R 0 6
+U 6 2
+D 0 2
+D 2 8
+R 0 8
+L 8
+L 2
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+U 1 2
+D 0 2
+L 2 2
+U 0 2
+L 3
+L 2
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+U 1 2
+D 0 2
+D 2 2
+R 0 2
+L 3 6
+D 0 6
+U 6 2
+R 0 2
+L 2 6
+D 0 6
+U 6 2
+R 0 2
+L 2 4
+R 0 4
+U 4 4
+D 0 4
+D 4 8
+R 0 8
+L 8
+L 1
+L 2
+L 1
+L 1
+U 2
+U 1
+U 1
+D 2
+D 1
+D 1
+L 2
+L 1
+L 1
+L 2
+L 1
+L 1
+R 2
+R 1
+R 1
+D 2
+D 1
+D 1
+L 3 6
+D 0 6
+U 6 2
+R 0 2
+L 2 6
+D 0 6
+U 6 2
+R 0 2
+L 2 6
+R 0 6
+U 6 2
+D 0 2
+D 2 8
+R 0 8
+L 8 8
+U 0 8
+U 8 4
+D 0 4
+D 4 4
+R 0 4
+L 4 8
+D 0 8
+U 8 4
+R 0 4
+L 4 4
+D 0 4
+U 4 16
+D 0 16
+L 16
+R 0
+L 1
+R 0
+L 1
+R 0
+L 1
+R 0
+L 1
+R 0
+L 1
+R 0
+L 1
+R 0
+L 1
+R 0
+L 1
+R 1
+U 1
+D 1
+L 1
+R 0
+L 2
+R 0
+# Chorus
+D 2
+R 0
+R 2
+R 1
+R 1
+R 1
+R 1
+R 1
+R 1
+R 1
+R 1
+R 1
+R 1
+R 1
+R 1
+R 1
+U 1
+D 0
+D 2
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+D 1
+L 1
+U 0
+U 2
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+L 1
+R 0
+L 2
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+# Chorus 2
+D 1
+R 0
+R 2
+R 1
+R 1
+R 1
+R 1
+D 1
+D 1
+D 1
+D 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+D 0
+D 2
+D 1
+D 1
+D 1
+D 1
+U 1
+U 1
+U 1
+U 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+U 0
+U 2
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+U 1
+L 1
+R 0
+L 2
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+L 1
+# Echo
+L 1 8
+U 0 8
+U 8 4
+D 0 4
+D 4 4
+R 0 4
+L 4 8
+U 0 8
+U 8 4
+D 0 4
+D 4 4
+R 0 4
+U 4 2
+R 0 2
+L 2 2
+D 0 2
+U 2 2
+D 0 2
+#
+L 2 4
+R 0 4
+U 4 4
+D 0 4
+U 4 2
+D 0 2
+U 2 2
+R 0 2
+L 2 2
+D 0 2
+U 2 2
+D 0 2
+L 2 4
+R 0 4
+U 4 4
+D 0 4
+U 4 2
+D 0 2
+#
+D 2 2
+R 0 2
+U 2 2
+D 0 2
+L 2 2
+U 0 2
+U 2 4
+D 0 4
+L 4 4
+R 0 4
+L 4 2
+R 0 2
+D 2 2
+R 0 2
+U 2 2
+D 0 2
+L 2 2
+U 0 2
+U 2 4
+D 0 4
+L 4 4
+R 0 4
+L 4 2
+R 0 2
+#
+U 2 2
+D 0 2
+D 2 2
+R 0 2
+U 2 2
+D 0 2
+L 2 4
+U 0 4
+L 4 4
+U 0 4
+L 4 2
+U 0 2
+U 2 2
+D 0 2
+D 2 2
+R 0 2
+U 2 2
+D 0 2
+L 2 4
+U 0 4
+# Outro
+L 10
+R 0
+L 1
+D 1
+L 1
+L 1
+L 1
+L 1
+D 1
+R 1
+L 1
+D 1
+L 1
+U 1
+L 1
+D 1
+L 1
+L 1
+R 0
+L 1
+R 0
