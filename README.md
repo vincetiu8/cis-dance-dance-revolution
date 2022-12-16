@@ -1,5 +1,7 @@
 # CIS Dance Dance Revolution
 
+![Cover Image](ddrcover.png)
+
 A Dance Dance Revolution-inspired game including some of the CIS professors. Created for CIS 1200.
 
 This game was inspired by the [Chainsaw Dance](https://benedique.itch.io/chainsaw-dance) game. Go check that out too!
