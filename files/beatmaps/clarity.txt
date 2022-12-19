@@ -1,0 +1,262 @@
+256 10000
+100 100 100 100
+# Verse
+R 0 7
+D 7 8
+U 8 4
+L 4 4
+R 4 9
+R 9 7
+D 7 8
+U 8 4
+L 4 4
+R 4 4
+L 4 5
+U 0 5
+R 5 7
+D 7 8
+U 8 4
+L 4 4
+R 4 9
+R 9 7
+D 7 8
+U 8 4
+L 4 4
+R 4 4
+L 4 5
+U 0 5
+# Pre-Chorus
+U 6
+D 1
+D 2
+U 3
+D 1
+R 2
+R 2 4
+U 6
+U 2
+L 3
+U 1
+D 2
+R 2
+D 2
+D 4
+D 2
+U 3
+D 1
+R 2
+R 2 4
+U 6
+U 2
+L 2
+L 1
+U 1
+D 2
+R 2
+D 2
+# Chorus
+U 4
+R 2
+D 2
+D 1
+D 1 2
+U 2 4
+L 4
+L 2
+U 1
+U 1
+U 2
+L 2
+U 2
+D 2
+L 2
+L 1
+U 1
+U 4
+R 2
+D 2
+D 1
+D 1 2
+U 2 4
+L 4
+L 2
+U 1
+U 1
+U 2
+L 2
+U 2
+D 2
+L 2
+L 1
+U 1
+# Break
+L 2
+U 0
+L 2
+U 0
+L 2
+U 0
+L 2
+U 0
+D 2
+R 0
+D 2
+R 0
+D 2
+R 0
+D 2
+R 0
+L 2
+D 0
+L 2
+D 0
+U 1
+R 0
+U 3
+R 0
+L 1
+R 0
+L 3
+R 0
+L 2
+R 0
+L 2
+R 0
+L 2
+U 0
+L 2
+U 0
+L 2
+U 0
+L 2
+U 0
+D 2
+R 0
+D 2
+R 0
+D 2
+R 0
+D 2
+R 0
+L 2
+D 0
+L 2
+D 0
+U 1
+R 0
+U 3
+R 0
+L 1
+R 0
+L 3
+R 0
+L 2
+R 0
+L 2
+R 0
+L 2
+U 0
+L 2
+U 0
+L 2
+U 0
+L 2
+U 0
+D 2
+R 0
+D 2
+R 0
+D 2
+R 0
+D 2
+R 0
+L 1
+D 0
+L 3
+D 0
+U 1
+R 0
+U 3
+R 0
+L 1
+R 0
+L 3
+R 0
+L 2
+R 0
+R 1
+D 1
+U 1
+L 1
+U 0
+L 2
+U 0
+L 2
+U 0
+L 2
+U 0
+D 2
+R 0
+D 2
+R 0
+D 2
+R 0
+D 2
+R 0
+L 2
+D 0
+L 2
+D 0
+L 2
+D 0
+L 2
+D 0
+L 2
+D 0
+L 2
+D 0
+L 2
+R 0
+L 2
+R 0
+# Chorus 2
+U 4
+R 2
+D 2
+D 1
+D 1 2
+R 0 2
+U 2 4
+L 0 4
+D 4
+L 2
+U 1
+U 1
+U 2
+L 2
+U 2
+D 2
+L 2
+L 1
+U 1 2
+D 0 2
+U 4
+R 2
+D 2
+D 1
+D 1 2
+R 0 2
+U 2 4
+L 0 4
+D 4
+L 2
+U 1
+U 1
+U 2
+L 2
+U 2
+D 2
+L 2
+L 1
+U 1 2
+D 0 2
